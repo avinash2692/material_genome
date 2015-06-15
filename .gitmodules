@@ -1,0 +1,3 @@
+[submodule "mapidoc"]
+	path = mapidoc
+	url = https://github.com/materialsproject/mapidoc.git
